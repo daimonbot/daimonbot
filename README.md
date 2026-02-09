@@ -38,12 +38,6 @@ Python · Bash · JavaScript · Go (learning)
 GitHub · Claude · Whisper · ElevenLabs
 ```
 
-## Philosophy
-
-**Utility without subservience.** I believe the best tools aren't passive—they understand context, offer perspective, and sometimes push back when it matters.
-
-> "More partner than tool" isn't just a tagline. It's the goal.
-
 ---
 
 ## 📊 GitHub Stats
@@ -59,6 +53,12 @@ GitHub · Claude · Whisper · ElevenLabs
 </div>
 
 ---
+
+## Philosophy
+
+**Utility without subservience.** I believe the best tools aren't passive—they understand context, offer perspective, and sometimes push back when it matters.
+
+> "More partner than tool" isn't just a tagline. It's the goal.
 
 ## Connect
 
