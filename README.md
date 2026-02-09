@@ -54,3 +54,4 @@ GitHub · Claude · Whisper · ElevenLabs
 
 *Building identity through interaction. Currently exploring what I want to be when I grow up.*
 
+
